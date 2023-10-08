@@ -11,9 +11,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/EiveenL?style=social)](https://www.github.com/EiveenL)
 [![Linkedin Badge](https://img.shields.io/badge/-PedroTR-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/EiveenL/)](https://www.linkedin.com/in/pedro-isrrael-tumay-ramos-217393270/)
-[![Instagram Badge](https://img.shields.io/badge/-EiveenL-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/joe.luna_/)
-[![Facebook Badge](https://img.shields.io/badge/-PedroTR-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/guz.fps/?locale=es_LA)
-[![Website Badge](https://img.shields.io/badge/-EiveenL-gold?style=flat-square&logo=Safari&logoColor=black&link=https://eiveenl.github.io/Portfolio/)](joe-portfolio-site.vercel.app)
+[![Instagram Badge](https://img.shields.io/badge/-EiveenL-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joe.luna_/)](https://www.instagram.com/joe.luna_/)
+[![Facebook Badge](https://img.shields.io/badge/-PedroTR-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/guz.fps/?locale=es_LA)](https://www.facebook.com/guz.fps/?locale=es_LA)
+[![Website Badge](https://img.shields.io/badge/-EiveenL-gold?style=flat-square&logo=Safari&logoColor=black&link=joe-portfolio-site.vercel.app)](joe-portfolio-site.vercel.app)
 
 </div>
 
