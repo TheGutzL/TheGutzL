@@ -30,11 +30,7 @@
 <div>
 	<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 	<p align="left">
-		I am a junior data scientist and analyst, I like to find solutions to problems by analyzing data in order to generate
-		useful answers using predictive models.
-		My mission is to provide deep insights and informed actions through the power of data science.
-		I help organizations unlock the hidden value in their data, transforming information into strategic
-		knowledge that drives effective decision-making and sustainable business growth
+		I am a full stack developer with a passion for creating technology solutions that drive efficiency and sustainable growth for organizations. My focus ranges from creating exceptional user experiences on the front-end, using technologies like React and Angular, to building robust and scalable systems on the back-end with Node.js, Express and MongoDB. My commitment to constant learning drives me to stay current with the latest trends in web development, allowing me to contribute to technological innovation and the continued success of companies through effective technical solutions.
 	</p>
 	
 </div>
