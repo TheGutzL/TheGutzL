@@ -9,7 +9,8 @@
 	
 ![Purple Illustration Mountain and Train Desktop Wallpaper](https://i.pinimg.com/564x/7e/59/f8/7e59f89f7537772a0ef6f5a8ac7c9016.jpg)
 
-[![GitHub followers](https://img.shields.io/github/followers/EiveenL?style=social)](https://www.github.com/EiveenL)
+[![GitHub followers](https://img.shields.io/badge/Joe-Luna?style=social&logo=Github
+)](https://github.com/Joe-Luna)
 [![Linkedin Badge](https://img.shields.io/badge/-PedroTR-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/EiveenL/)](https://www.linkedin.com/in/pedro-isrrael-tumay-ramos-217393270/)
 [![Instagram Badge](https://img.shields.io/badge/Joe-Luna?style=flat-square&logo=Instagram&logoColor=white&color=orange&link=https%3A%2F%2Fwww.instagram.com%2Fjoe.luna_%2F)](https://www.instagram.com/joe.luna_/)
 [![Facebook Badge](https://img.shields.io/badge/Joe-Luna?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https%3A%2F%2Fwww.facebook.com%2Fguz.fps%2F%3Flocale%3Des_LA
