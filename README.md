@@ -2,12 +2,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<h3>@EiveenL</h3>
-<h1>Hi👋, I'm <a href="https://eiveenl.github.io/Portfolio/" style="color: #FFD700;">Pedro Tumay Ramos</a></h1>
+<h3>@Joe-Luna</h3>
+<h1>Hi👋, I'm <a href="https://joe-portfolio-site.vercel.app" style="color: #FFD700;">Joe Luna</a></h1>
 	
 <div align="center">
 	
-![Purple Illustration Mountain and Train Desktop Wallpaper](https://github.com/EiveenL/EiveenL/assets/100743285/66794b55-285f-40b1-9ce4-2ee225c782eb)
+![Purple Illustration Mountain and Train Desktop Wallpaper](https://i.pinimg.com/564x/03/67/6f/03676f73330b0311ef72ab0c7f5d0469.jpg)
 
 [![GitHub followers](https://img.shields.io/github/followers/EiveenL?style=social)](https://www.github.com/EiveenL)
 [![Linkedin Badge](https://img.shields.io/badge/-PedroTR-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/EiveenL/)](https://www.linkedin.com/in/pedro-isrrael-tumay-ramos-217393270/)
