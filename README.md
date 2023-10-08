@@ -7,13 +7,13 @@
 	
 <div align="center">
 	
-![Purple Illustration Mountain and Train Desktop Wallpaper](https://i.pinimg.com/564x/03/67/6f/03676f73330b0311ef72ab0c7f5d0469.jpg)
+![Purple Illustration Mountain and Train Desktop Wallpaper](https://i.pinimg.com/564x/7e/59/f8/7e59f89f7537772a0ef6f5a8ac7c9016.jpg)
 
 [![GitHub followers](https://img.shields.io/github/followers/EiveenL?style=social)](https://www.github.com/EiveenL)
 [![Linkedin Badge](https://img.shields.io/badge/-PedroTR-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/EiveenL/)](https://www.linkedin.com/in/pedro-isrrael-tumay-ramos-217393270/)
-[![Instagram Badge](https://img.shields.io/badge/-EiveenL-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/israeltr.exe/)
-[![Facebook Badge](https://img.shields.io/badge/-PedroTR-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/pedroisrael.tumayC.137)
-[![Website Badge](https://img.shields.io/badge/-EiveenL-gold?style=flat-square&logo=Safari&logoColor=black&link=https://eiveenl.github.io/Portfolio/)](https://eiveenl.github.io/Portfolio/)
+[![Instagram Badge](https://img.shields.io/badge/-EiveenL-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/joe.luna_/)
+[![Facebook Badge](https://img.shields.io/badge/-PedroTR-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/guz.fps/?locale=es_LA)
+[![Website Badge](https://img.shields.io/badge/-EiveenL-gold?style=flat-square&logo=Safari&logoColor=black&link=https://eiveenl.github.io/Portfolio/)](joe-portfolio-site.vercel.app)
 
 </div>
 
