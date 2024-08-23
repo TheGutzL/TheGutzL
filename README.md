@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://private-user-images.githubusercontent.com/100743285/267118080-66794b55-285f-40b1-9ce4-2ee225c782eb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0MzI5ODMsIm5iZiI6MTcyNDQzMjY4MywicGF0aCI6Ii8xMDA3NDMyODUvMjY3MTE4MDgwLTY2Nzk0YjU1LTI4NWYtNDBiMS05Y2U0LTJlZTIyNWM3ODJlYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyM1QxNzA0NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZWFmMjMwMTFjM2RkMjQ1YTViZDlhOWE5YTRiZjc0NDM0ZWM5MDI1ZWQzM2EzYzU3YTJlZTFjMTU1NmRhMDcwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.M5N5R7QO0kiym5A5AkdHvJrQUTsZltR6BUa3EJxbYXA)">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 <h3>@Joe-Luna</h3>
@@ -7,7 +7,7 @@
 	
 <div align="center">
 	
-![Purple Illustration Mountain and Train Desktop Wallpaper](https://i.pinimg.com/564x/7e/59/f8/7e59f89f7537772a0ef6f5a8ac7c9016.jpg)
+![Purple Illustration Mountain and Train Desktop Wallpaper]([https://i.pinimg.com/564x/7e/59/f8/7e59f89f7537772a0ef6f5a8ac7c9016.jpg](https://private-user-images.githubusercontent.com/…9MCJ9.M5N5R7QO0kiym5A5AkdHvJrQUTsZltR6BUa3EJxbYXA))
 
 [![GitHub followers](https://img.shields.io/badge/Joe-Luna?style=social&logo=Github
 )](https://github.com/Joe-Luna)
