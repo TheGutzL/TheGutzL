@@ -7,7 +7,7 @@
 	
 <div align="center">
 	
-![Purple Illustration Mountain and Train Desktop Wallpaper](https://i.pinimg.com/564x/7e/59/f8/7e59f89f7537772a0ef6f5a8ac7c9016.jpg](https://private-user-images.githubusercontent.com/…9MCJ9.M5N5R7QO0kiym5A5AkdHvJrQUTsZltR6BUa3EJxbYXA)
+![Purple Illustration Mountain and Train Desktop Wallpaper](https://github.com/EiveenL/EiveenL/assets/100743285/66794b55-285f-40b1-9ce4-2ee225c782eb)
 
 [![GitHub followers](https://img.shields.io/badge/Joe-Luna?style=social&logo=Github
 )](https://github.com/Joe-Luna)
