@@ -31,7 +31,7 @@
 <div>
 	<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 	<p align="left">
-		I am a full stack developer with a passion for creating technology solutions that drive efficiency and sustainable growth for organizations. My focus ranges from creating exceptional user experiences on the front-end, using technologies like React and Angular, to building robust and scalable systems on the back-end with Node.js, Express and MongoDB. My commitment to constant learning drives me to stay current with the latest trends in web development, allowing me to contribute to technological innovation and the continued success of companies through effective technical solutions.
+		I am a full stack developer with a passion for creating technology solutions that drive efficiency and sustainable growth for organizations. My focus ranges from creating exceptional user experiences on the front-end, using technologies like React, to building robust and scalable systems on the back-end with Node.js, SpringBoot, Express and MongoDB. My commitment to constant learning drives me to stay current with the latest trends in web development, allowing me to contribute to technological innovation and the continued success of companies through effective technical solutions.
 	</p>
 	
 </div>
@@ -40,7 +40,7 @@
 
 <div align="left">
 	
-- :books: I’m currently learning React, Angular, Nextjs, MongoDB, Spring Boot, Nestjs, Python.
+- :books: I’m currently learning React, Nextjs, MongoDB, Spring Boot, Nestjs, Python.
 - :computer: Techs:  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=bzf0DqjXFHIW&format=png" alt="pytorch" width="25" height="25"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=j9DnICNnlhGk&format=png" alt="scikit_learn" width="25" height="25"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=MWiBjkuHeMVq&format=png" alt="python" width="25" height="25"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="tensorflow" width="25" height="25"/> </a> <a href="https://www.rstudio.com/categories/rstudio-ide/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=90519&format=png" alt="Rstudio" width="25" height="25"/> </a><a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=9ESZMOeUioJS&format=png" alt="PowerBI" width="25" height="25"/> </a> <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=13441&format=png" alt="MongoDB" width="25" height="25"/> </a>
 - :pushpin: Interests: User Interface Design, Web Development Frameworks, JavaScript, Responsive Web Design, Continuous Learning.
 
