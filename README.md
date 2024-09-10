@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<h3>@Joe-Luna</h3>
-<h1>Hi👋, I'm <a href="https://joe-portfolio-site.vercel.app" style="color: #FFD700;">Joe Luna</a></h1>
+<h3>Gutz</h3>
+<h1>Hi👋, I'm <a href="https://joe-portfolio-site.vercel.app" style="color: #FFD700;">Gutz</a></h1>
 	
 <div align="center">
 	
