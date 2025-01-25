@@ -3,7 +3,7 @@
 
 <div align="center">
 <h3>Gutz</h3>
-<h1>Hi👋, I'm <a href="https://joe-portfolio-site.vercel.app" style="color: #FFD700;">Gutz</a></h1>
+<h1>Hi👋, I'm <a href="https://joe-portfolio-site.vercel.app" style="color: #FFD700;">Joe</a></h1>
 	
 <div align="center">
 	
