@@ -2,8 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<h3>Gutz</h3>
-<h1>Hi👋, I'm <a href="https://joe-portfolio-site.vercel.app" style="color: #FFD700;">Joe</a></h1>
+<h1>Hi👋, I'm <a href="https://joe-portfolio-site.vercel.app" style="color: #FFD700;">Zuro</a></h1>
 	
 <div align="center">
 	
